@@ -1,0 +1,13 @@
+D:\Development.OSS\log4net\src\solution-vs2008\log4net.Appenders.ActiveMQ\obj\Debug\ResolveAssemblyReference.cache
+D:\Development.OSS\log4net\src\solution-vs2008\log4net.Appenders.ActiveMQ\bin\Debug\log4net.Appenders.ActiveMQ.dll
+D:\Development.OSS\log4net\src\solution-vs2008\log4net.Appenders.ActiveMQ\bin\Debug\log4net.Appenders.ActiveMQ.pdb
+D:\Development.OSS\log4net\src\solution-vs2008\log4net.Appenders.ActiveMQ\bin\Debug\log4net.dll
+D:\Development.OSS\log4net\src\solution-vs2008\log4net.Appenders.ActiveMQ\obj\Debug\log4net.Appenders.ActiveMQ.dll
+D:\Development.OSS\log4net\src\solution-vs2008\log4net.Appenders.ActiveMQ\obj\Debug\log4net.Appenders.ActiveMQ.pdb
+D:\Development.OSS\log4net\src\log4net.Appenders.ActiveMQ\obj\Debug\ResolveAssemblyReference.cache
+D:\Development.OSS\log4net\src\log4net.Appenders.ActiveMQ\obj\Debug\log4net.Appenders.ActiveMQ.dll
+D:\Development.OSS\log4net\src\log4net.Appenders.ActiveMQ\obj\Debug\log4net.Appenders.ActiveMQ.pdb
+D:\Development.OSS\log4net\src\log4net.Appenders.ActiveMQ\bin\Debug\log4net.Appenders.ActiveMQ.dll
+D:\Development.OSS\log4net\src\log4net.Appenders.ActiveMQ\bin\Debug\log4net.Appenders.ActiveMQ.pdb
+D:\Development.OSS\log4net\src\log4net.Appenders.ActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\Development.OSS\log4net\src\log4net.Appenders.ActiveMQ\bin\Debug\Apache.NMS.dll

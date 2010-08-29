@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<log4net>
+  <appender name="AMQ" type="log4net.Appender.ActiveMQAppender, log4net.Appenders.ActiveMQ">
+    <lossy value="true" />
+    <evaluator type="log4net.Core.LevelEvaluator">
+      <threshold value="INFO"/>
+    </evaluator>
+    <TopicPrefix value="TP2.Logging"/>
+    <BufferSize value="5"/>
+    <ConnectionUri value="failover:(tcp://mq01.tp2net.lan:1414)"/>
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%-5p %d{hh:mm:ss} %message%newline" />
+    </layout>
+  </appender>
+  
+  <appender name="ConsoleAppender" type="log4net.Appender.ConsoleAppender">
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%date [%thread] %-5level %logger [%property{NDC}] - %message%newline" />
+    </layout>
+  </appender>
+
+  <!-- Set root logger level to DEBUG and its only appender to Console -->
+  <root>
+    <level value="DEBUG" />
+    <appender-ref ref="AMQ" />
+  </root>
+</log4net>

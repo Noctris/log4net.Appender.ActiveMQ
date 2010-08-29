@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Appenders.ActiveMQ", "log4net.Appenders.ActiveMQ\log4net.Appenders.ActiveMQ.csproj", "{DC7CC249-F84E-4F97-9E30-7E5D599BC512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4net.ActiveMQAppender.Demo", "Log4net.ActiveMQAppender.Demo\Log4net.ActiveMQAppender.Demo.csproj", "{1D8E39E0-DF15-4781-B9BA-2ADC071CBEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7CC249-F84E-4F97-9E30-7E5D599BC512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7CC249-F84E-4F97-9E30-7E5D599BC512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7CC249-F84E-4F97-9E30-7E5D599BC512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7CC249-F84E-4F97-9E30-7E5D599BC512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8E39E0-DF15-4781-B9BA-2ADC071CBEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8E39E0-DF15-4781-B9BA-2ADC071CBEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8E39E0-DF15-4781-B9BA-2ADC071CBEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8E39E0-DF15-4781-B9BA-2ADC071CBEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

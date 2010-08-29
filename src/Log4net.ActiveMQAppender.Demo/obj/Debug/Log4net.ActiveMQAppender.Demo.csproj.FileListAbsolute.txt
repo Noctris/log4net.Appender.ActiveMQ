@@ -1,0 +1,12 @@
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\Log4net.ActiveMQAppender.Demo.exe
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\Log4net.ActiveMQAppender.Demo.pdb
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\obj\Debug\ResolveAssemblyReference.cache
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\obj\Debug\Log4net.ActiveMQAppender.Demo.exe
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\obj\Debug\Log4net.ActiveMQAppender.Demo.pdb
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\Apache.NMS.dll
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\log4net.Appenders.ActiveMQ.dll
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\log4net.dll
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\log4net.Appenders.ActiveMQ.pdb
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\Log4net.ActiveMQAppender.Demo.exe.config
+D:\Development.OSS\log4net\src\Log4net.ActiveMQAppender.Demo\bin\Debug\log4net.xml
